@@ -1,0 +1,32 @@
+_repo: Dreamland_16348
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lippmann, Julie Mathilde
+    alias: Lippmann, Julie M.
+    birthdate: 1864
+    deathdate: 1952
+    gutenberg_agent_id: '5716'
+    url: http://www.gutenberg.org/2009/agents/5716
+description: ''
+gutenberg_issued: '2005-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+tableOfContents: The waking soul -- Betty's by-and-by -- The white angel -- In the
+  pied piper's mountain -- Marjorie's miracle -- What happened to Lionel -- Marie
+  and the meadow-brook -- Nina's Christmas gifts.
+title: Dreamland
+url: http://www.gutenberg.org/ebooks/16348
